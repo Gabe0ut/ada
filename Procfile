@@ -1,2 +1,1 @@
-web: ./start.sh
-
+worker: node start.sh
