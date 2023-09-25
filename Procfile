@@ -1,1 +1,1 @@
-bash start.sh
+sh start.sh
