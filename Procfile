@@ -1,2 +1,1 @@
-web: sh start.sh
-heroku ps:scale web=0
+worker: sh start.sh
