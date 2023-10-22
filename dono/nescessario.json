@@ -6,7 +6,7 @@
   "consoleoff": true,
   "antipv": false,
   "anticall": false,
-  "visualizarmsg": false,
+  "visualizarmsg": true,
   "listanegraG": [],
   "cmdpremium": [],
   "TOKEN_GPT": 0,
@@ -20,5 +20,8 @@
   "dono4": ".",
   "dono5": ".",
   "dono6": ".",
-  "botoff": false
+  "botoff": false,
+  "donodorepo": "badDevelopper",
+  "pastadorepo": "figus2",
+  "pastacomfigu": "fig"
 }
