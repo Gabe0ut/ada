@@ -1,6 +1,6 @@
 [
   {
-    "name": "༺ღ🎃 THE BRAWL🍬ღ༻",
+    "name": "༺ღ 🎄THE BRAWL🎅🏼 ღ༻",
     "groupId": "120363153891187051@g.us",
     "x9": false,
     "antiimg": false,
@@ -15,7 +15,6 @@
     "antifake": false,
     "Odelete": false,
     "antispam": false,
-    "antinotas": false,
     "anticatalogo": false,
     "sistemGold": false,
     "visuUnica": false,
@@ -27,12 +26,15 @@
     "prefixos": [
       "!"
     ],
+    "comandosB": [],
     "advertir2": [],
     "legenda_estrangeiro": "0",
+    "legenda_listanegra": "Eita, estava na lista negra, sinto muito, terei que remover.",
     "legenda_documento": "0",
     "legenda_video": "0",
     "legenda_imagem": "0",
     "multiprefix": false,
+    "recolherlinkgp": false,
     "forca_ofc": [
       {
         "acertos": 0,
@@ -69,7 +71,6 @@
       }
     ],
     "simi1": false,
-    "simi2": false,
     "autosticker": false,
     "autoresposta": false,
     "jogos": false,
