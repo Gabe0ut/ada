@@ -202,6 +202,7 @@ Usuário: @${sender.split("@")[0]}
 
 **Comandos de Configuração:**
 
+◈• ${prefix}Dononogrupo
 ◈• ${prefix}Addgold
 ◈• ${prefix}Limitecaracteres
 ◈• ${prefix}Rgtm
